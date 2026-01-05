@@ -21,9 +21,9 @@ Traditional query optimizers struggle with large queries involving multiple join
 ## Technologies & Tools
 - **Programming Languages**: Python (or C++/Java for high performance)
 - **Libraries**:
-  - `networkx` → Hypergraph representation
-  - `PyTorch` / `TensorFlow` → Graph Neural Networks for AI predictions
-  - `numpy`, `pandas` → Data handling
+  - networkx → Hypergraph representation
+  - PyTorch / TensorFlow → Graph Neural Networks for AI predictions
+  - numpy, pandas → Data handling
 - **Datasets**:
   - Synthetic SQL queries
   - Open benchmark datasets: [TPC-H](http://www.tpc.org/tpch/) or [TPC-DS](http://www.tpc.org/tpcds/)
@@ -47,7 +47,7 @@ Traditional query optimizers struggle with large queries involving multiple join
 
 ## Custom Algorithm: Adaptive Hypergraph Traversal (AHT)
 **Pseudo-code:**
-```text
+text
 Input: Hypergraph H(Tables, Hyperedges), AI predictions P
 Output: Optimized join order
 
