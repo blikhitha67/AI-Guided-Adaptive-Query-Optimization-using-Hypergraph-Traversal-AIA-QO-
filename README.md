@@ -28,7 +28,7 @@ Traditional query optimizers struggle with large queries involving multiple join
   - Synthetic SQL queries
   - Open benchmark datasets: [TPC-H](http://www.tpc.org/tpch/) or [TPC-DS](http://www.tpc.org/tpcds/)
 - **Visualization**:
-  - `matplotlib` or `plotly` → Hypergraph traversal visualization
+  - matplotlib or plotly → Hypergraph traversal visualization
 
 ---
 
