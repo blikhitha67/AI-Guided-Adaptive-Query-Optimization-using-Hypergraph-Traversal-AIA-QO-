@@ -1,3 +1,5 @@
+# AI-Guided-Adaptive-Query-Optimization-using-Hypergraph-Traversal-AIA-QO
+
 ## Project Overview
 **AIA-QO** is a novel system that combines **AI and advanced Data Structures & Algorithms (DSA)** to optimize complex SQL queries in relational databases. It models multi-way joins as a **hypergraph** and uses a **custom Adaptive Hypergraph Traversal (AHT) algorithm** guided by AI predictions to find optimal or near-optimal join orders efficiently.
 
